@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/eating-disorder-anorexia---primary.py
+inputModule3:
+  class: File
+  path: python/excessive-eating-disorder---primary.py
+inputModule4:
+  class: File
+  path: python/eating-disorder-hyperalimentation---primary.py
+inputModule5:
+  class: File
+  path: python/eating-disorder-polyphagia---primary.py
+inputModule6:
+  class: File
+  path: python/clinic-eating-disorder---primary.py
+inputModule7:
+  class: File
+  path: python/eating-disorder-nervosa---primary.py
+inputModule8:
+  class: File
+  path: python/eating-disorder-unspecified---primary.py
+inputModule9:
+  class: File
+  path: python/eating-disorder-bulimia---primary.py
+inputModule10:
+  class: File
+  path: python/eating-disorder---primary.py
+inputModule11:
+  class: File
+  path: python/psychogenic-eating-disorder---primary.py
+inputModule12:
+  class: File
+  path: python/eating-disorder-vomiting---primary.py
+inputModule13:
+  class: File
+  path: python/nonorganic-eating-disorder---primary.py
+inputModule14:
+  class: File
+  path: python/eating---primary.py
+inputModule15:
+  class: File
+  path: python/atypical-eating-disorder---primary.py
+inputModule16:
+  class: File
+  path: python/psychological-eating-disorder---primary.py
+inputModule17:
+  class: File
+  path: python/other-eating-disorder---primary.py
+inputModule18:
+  class: File
+  path: python/eating-disorder-starvation---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
